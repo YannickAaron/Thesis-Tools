@@ -22,9 +22,9 @@ Collection of tools that are useful when it comes to writing a paper.
 | Name | Describtion | Price | Pros | Cons | Type |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | [Sci-Hub](https://www.google.com/search?q=sci+hub) | Free research papers | - | - | change of url | Website |
-| [Zotero](https://www.zotero.org) | Research assistant to help you
-collect, organize, cite, and share research | Free | Latex integration, browser extension, fast, easy to use | - | Application: Mac, Windows, Linux |
+| [Zotero](https://www.zotero.org) | Research assistant to help you collect, organize, cite, and share research | Free | Latex integration, browser extension, fast, easy to use | - | Application: Mac, Windows, Linux |
 | [scite_](https://scite.ai/) | Find research papers for content | 8€ monthly | Browser extension | Price | Webapplication, Browser Extension |
+| [Papers with code ](https://paperswithcode.com) | -----------| -----------| ----------- | ----------- | Website |
 
 ## Other
 
