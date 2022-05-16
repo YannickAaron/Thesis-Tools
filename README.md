@@ -30,7 +30,7 @@ Collection of tools that are useful when it comes to writing a paper.
 
 | Name | Describtion | Price | Pros | Cons | Type |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| [quillbot](https://quillbot.com) | ----------- | ----------- | ----------- | ----------- | ----------- |
+| | ----------- | ----------- | ----------- | ----------- | ----------- |
 https://mathpix.com/
 
 # Templates
