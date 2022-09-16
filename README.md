@@ -30,8 +30,9 @@ Collection of tools that are useful when it comes to writing a paper.
 
 | Name | Describtion | Price | Pros | Cons | Type |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| | ----------- | ----------- | ----------- | ----------- | ----------- |
-https://mathpix.com/
+| [Quillbot](https://quillbot.com) | Parahprasing and general writing helper! | ----------- |  ----------- |  ----------- | Website |
+| [Mathpix](https://mathpix.com/) | Pictures of formulares to latex  | ----------- |  ----------- |  ----------- |  Website |
+
 
 # Templates
 This repository features the following templates:
